@@ -1,0 +1,25 @@
+﻿@model projetWeb.ViewModels.ConnexionViewModel
+@{
+    ViewData["Title"] = "Connexion";
+}
+
+<h1>Connexion</h1>
+
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Courriel">Courriel</label>
+        <input asp-for="Courriel" class="form-control" />
+        <span asp-validation-for="Courriel" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MotDePasse">Mot de passe</label>
+        <input asp-for="MotDePasse" type="password" class="form-control" />
+        <span asp-validation-for="MotDePasse" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Se connecter</button>
+    <a asp-action="Inscription">Pas de compte ? S'inscrire</a>
+</form>

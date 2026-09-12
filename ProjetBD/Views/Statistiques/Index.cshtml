@@ -1,0 +1,29 @@
+﻿@model IEnumerable<projetWeb.Models.VwStatistiquesJoueursParEquipe>
+
+@{
+    ViewData["Title"] = "Statistiques par équipe";
+}
+
+<h1>Statistiques par équipe</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Équipe ID</th>
+            <th>Nombre de joueurs</th>
+            <th>Moyenne de buts</th>
+            <th>Total passes</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var stat in Model)
+        {
+            <tr>
+                <td>@stat.EquipeId</td>
+                <td>@stat.NombreJoueurs</td>
+                <td>@stat.MoyenneButs</td>
+                <td>@stat.TotalPasses</td>
+            </tr>
+        }
+    </tbody>
+</table>

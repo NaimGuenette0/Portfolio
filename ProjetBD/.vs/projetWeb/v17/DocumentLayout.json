@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\viewsmodels\\uploadphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:viewsmodels\\uploadphotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\viewsmodels\\rechercheclassementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:viewsmodels\\rechercheclassementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\viewsmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:viewsmodels\\inscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\viewsmodels\\classementjoueurviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:viewsmodels\\classementjoueurviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\viewsmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:viewsmodels\\connexionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\utilisateurs\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\utilisateurs\\inscription.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\utilisateurs\\connexion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\statistiques\\uploadphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\statistiques\\uploadphoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\statistiques\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\statistiques\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\statistiques\\classement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\statistiques\\classement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\statistiques\\afficherjoueurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\statistiques\\afficherjoueurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\models\\vwstatistiquesjoueursparequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\vwstatistiquesjoueursparequipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\models\\changelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\changelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\models\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:models\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:controllers\\utilisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\controllers\\statistiquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:controllers\\statistiquescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\data\\liguenationalhockeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:data\\liguenationalhockeycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetfinalbd\\projetweb\\views\\statistiques\\rechercheclassementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D6B726-CECC-4133-BAD4-C0594901609B}|projetWeb.csproj|solutionrelative:views\\statistiques\\rechercheclassementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Models\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Utilisateur.cs",
+              "RelativeToolTip": "Models\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T00:04:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "Models\\Equipe.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Equipe.cs",
+              "RelativeToolTip": "Models\\Equipe.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T00:04:10.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Changelog.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Changelog.cs",
+              "RelativeDocumentMoniker": "Models\\Changelog.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Changelog.cs",
+              "RelativeToolTip": "Models\\Changelog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T00:04:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Adresse.cs",
+              "RelativeDocumentMoniker": "Models\\Adresse.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\Adresse.cs",
+              "RelativeToolTip": "Models\\Adresse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T00:04:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VwStatistiquesJoueursParEquipe.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\VwStatistiquesJoueursParEquipe.cs",
+              "RelativeDocumentMoniker": "Models\\VwStatistiquesJoueursParEquipe.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Models\\VwStatistiquesJoueursParEquipe.cs",
+              "RelativeToolTip": "Models\\VwStatistiquesJoueursParEquipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T21:25:42.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-01T22:15:32.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T23:12:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AfficherJoueurs.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\AfficherJoueurs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiques\\AfficherJoueurs.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\AfficherJoueurs.cshtml",
+              "RelativeToolTip": "Views\\Statistiques\\AfficherJoueurs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T22:52:34.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UploadPhoto.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\UploadPhoto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiques\\UploadPhoto.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\UploadPhoto.cshtml",
+              "RelativeToolTip": "Views\\Statistiques\\UploadPhoto.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T22:52:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadPhotoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\UploadPhotoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\UploadPhotoViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\UploadPhotoViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\UploadPhotoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T22:45:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T00:17:03.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RechercheClassementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\RechercheClassementViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\RechercheClassementViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\RechercheClassementViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\RechercheClassementViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T01:02:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Classement.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\Classement.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiques\\Classement.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\Classement.cshtml",
+              "RelativeToolTip": "Views\\Statistiques\\Classement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T01:02:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassementJoueurViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\ClassementJoueurViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\ClassementJoueurViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\ClassementJoueurViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\ClassementJoueurViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:53:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RechercheClassementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\RechercheClassementViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\Statistiques\\RechercheClassementViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\RechercheClassementViewModel.cs",
+              "RelativeToolTip": "Views\\Statistiques\\RechercheClassementViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:51:42.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T00:17:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LigueNationalHockeyContext.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Data\\LigueNationalHockeyContext.cs",
+              "RelativeDocumentMoniker": "Data\\LigueNationalHockeyContext.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Data\\LigueNationalHockeyContext.cs",
+              "RelativeToolTip": "Data\\LigueNationalHockeyContext.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:08:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connexion.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Utilisateurs\\Connexion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Utilisateurs\\Connexion.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Utilisateurs\\Connexion.cshtml",
+              "RelativeToolTip": "Views\\Utilisateurs\\Connexion.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T00:03:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inscription.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Utilisateurs\\Inscription.cshtml",
+              "RelativeDocumentMoniker": "Views\\Utilisateurs\\Inscription.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Utilisateurs\\Inscription.cshtml",
+              "RelativeToolTip": "Views\\Utilisateurs\\Inscription.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-31T00:03:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnexionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\ConnexionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\ConnexionViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\ConnexionViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\ConnexionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:02:34.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InscriptionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\InscriptionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\InscriptionViewModel.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\ViewsModels\\InscriptionViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\InscriptionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:02:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UtilisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Controllers\\UtilisateursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtilisateursController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Controllers\\UtilisateursController.cs",
+              "RelativeToolTip": "Controllers\\UtilisateursController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T00:01:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:45:47.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-30T23:45:47.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Statistiques\\Index.cshtml",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Views\\Statistiques\\Index.cshtml",
+              "RelativeToolTip": "Views\\Statistiques\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T23:45:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatistiquesController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Controllers\\StatistiquesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StatistiquesController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\ProjetFinalBD\\ProjetWeb\\Controllers\\StatistiquesController.cs",
+              "RelativeToolTip": "Controllers\\StatistiquesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T23:43:20.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

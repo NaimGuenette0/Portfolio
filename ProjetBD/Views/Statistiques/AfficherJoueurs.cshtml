@@ -1,0 +1,45 @@
+﻿@model IEnumerable<projetWeb.Models.Joueur>
+@{
+    ViewData["Title"] = "Joueurs";
+}
+
+<h1>Joueurs</h1>
+
+<a asp-action="UploadPhoto" class="btn btn-primary mb-3">Ajouter une photo</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Photo</th>
+            <th>Prénom</th>
+            <th>Nom</th>
+            <th>Position</th>
+            <th>Numéro</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            var photos = ViewBag.Photos as List<string?>; int i = 0;
+        }
+        @foreach (var vm in Model)
+        {
+            <tr>
+                <td>
+                    @if (photos![i] != null)
+                    {
+                        <img src="@photos[i]" width="80" height="80" />
+                    }
+                    else
+                    {
+                        <span>Aucune photo</span>
+                    }
+                </td>
+                <td>@vm.Prenom</td>
+                <td>@vm.Nom</td>
+                <td>@vm.Position</td>
+                <td>@vm.Numero</td>
+            </tr>
+            i++;
+        }
+    </tbody>
+</table>

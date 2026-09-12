@@ -1,0 +1,25 @@
+﻿@model projetWeb.ViewModels.UploadPhotoViewModel
+@{
+    ViewData["Title"] = "Upload photo";
+}
+
+<h1>Upload une photo de joueur</h1>
+
+<form method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="NumeroJoueur">Numéro du joueur</label>
+        <input asp-for="NumeroJoueur" class="form-control" />
+        <span asp-validation-for="NumeroJoueur" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FormFile">Photo</label>
+        <input asp-for="FormFile" type="file" class="form-control" />
+        <span asp-validation-for="FormFile" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Uploader</button>
+    <a asp-action="AfficherJoueurs">Voir les joueurs</a>
+</form>

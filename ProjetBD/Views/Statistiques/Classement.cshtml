@@ -1,0 +1,98 @@
+﻿@model projetWeb.ViewModels.RechercheClassementViewModel
+@{
+    ViewData["Title"] = "Classement des joueurs";
+}
+
+<h1>Classement des joueurs</h1>
+
+<form method="get">
+    <div class="row mb-3">
+        <div class="col-md-3">
+            <label>Équipe</label>
+            <select name="EquipeID" class="form-control">
+                <option value="">-- Toutes --</option>
+                @foreach (var equipe in ViewBag.Equipes)
+                {
+                    if (Model.EquipeID == equipe.EquipeId)
+                    {
+                        <option value="@equipe.EquipeId" selected>@equipe.Nom</option>
+                    }
+                    else
+                    {
+                        <option value="@equipe.EquipeId">@equipe.Nom</option>
+                    }
+                }
+            </select>
+        </div>
+        <div class="col-md-3">
+            <label>Position</label>
+            <select name="Position" class="form-control">
+                <option value="">-- Toutes --</option>
+                @if (Model.Position == "Attaquant")
+                {
+                    <option value="Attaquant" selected>Attaquant</option>
+                }
+                else
+                {
+                    <option value="Attaquant">Attaquant</option>
+                }
+                @if (Model.Position == "Defenseur")
+                {
+                    <option value="Defenseur" selected>Défenseur</option>
+                }
+                else
+                {
+                    <option value="Defenseur">Défenseur</option>
+                }
+                @if (Model.Position == "Gardien")
+                {
+                    <option value="Gardien" selected>Gardien</option>
+                }
+                else
+                {
+                    <option value="Gardien">Gardien</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-3">
+            <label>Buts minimum</label>
+            <input type="number" name="ButsMinimum" value="@Model.ButsMinimum" class="form-control" min="0" />
+        </div>
+        <div class="col-md-3">
+            <label>Passes minimum</label>
+            <input type="number" name="PassesMinimum" value="@Model.PassesMinimum" class="form-control" min="0" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Rechercher</button>
+</form>
+
+@if (Model.Resultats.Any())
+{
+    <table class="table table-striped mt-4">
+        <thead>
+            <tr>
+                <th>Prénom</th>
+                <th>Nom</th>
+                <th>Position</th>
+                <th>Équipe</th>
+                <th>Total buts</th>
+                <th>Total passes</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var joueur in Model.Resultats)
+            {
+                <tr>
+                    <td>@joueur.Prenom</td>
+                    <td>@joueur.Nom</td>
+                    <td>@joueur.Position</td>
+                    <td>@joueur.EquipeId</td>
+                    <td>@joueur.TotalButs</td>
+                    <td>@joueur.TotalPasses</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Index">Retour aux statistiques</a>

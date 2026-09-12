@@ -1,0 +1,7 @@
+MIGRATION
+
+evolve migrate sqlserver -c "Data Source=.;Initial Catalog=LigueNationalHockey;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Info -s Hockey --target-version 1.2
+
+SCAFFOLD
+
+dotnet ef dbcontext scaffold Name=LigueNationalHockey Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --context LigueNationalHockeyContext --data-annotations --force

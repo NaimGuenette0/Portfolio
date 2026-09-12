@@ -1,0 +1,31 @@
+﻿@model projetWeb.ViewModels.InscriptionViewModel
+@{
+    ViewData["Title"] = "Inscription";
+}
+
+<h1>Inscription</h1>
+
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="Courriel">Courriel</label>
+        <input asp-for="Courriel" class="form-control" />
+        <span asp-validation-for="Courriel" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MotDePasse">Mot de passe</label>
+        <input asp-for="MotDePasse" type="password" class="form-control" />
+        <span asp-validation-for="MotDePasse" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ConfirmationMotDePasse">Confirmer mot de passe</label>
+        <input asp-for="ConfirmationMotDePasse" type="password" class="form-control" />
+        <span asp-validation-for="ConfirmationMotDePasse" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">S'inscrire</button>
+    <a asp-action="Connexion">Déjà un compte ? Connexion</a>
+</form>
